@@ -386,7 +386,7 @@ footer p {
   }
 
   .location-info, .location-map, .sns-box {
-    width: 10px;
+    width: 100%;
   }
 
   .sns-box {
