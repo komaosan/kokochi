@@ -106,7 +106,7 @@ iframe {
 
 /* 出会い　------------------------------------------------------------- */
 #出会い {
-  background-image: url(IMG_8554.JPG);
+  background-image: url(images/IMG_8554.JPG);
   height: 300px;
   margin-bottom: 40px;
 }
@@ -189,12 +189,13 @@ aside p {
 
 /* 最近の出来事 ---------------------------------------------------------- */
 #最近の出来事 {
-  background-image: url(59499106.c771434ace00fa44235e35c02af912b9.20081213.jpg);
+  background-image: url(images/59499106.c771434ace00fa44235e35c02af912b9.20081213.jpg);
   min-height: 100vh;
 }
 .最近の出来事-content {
   max-width: 600px;
   margin-top: 10%;
+  color: white;
 }
 .最近の出来事-content .page-title {
   text-align: center;
@@ -213,7 +214,7 @@ aside p {
 
 /* CONTACT -------------------------------------------------------------- */
 #contact {
-  background-image: url(60041259.40ea2ce77aa371604c51e1158b7927cc.20083006.jpg);
+  background-image: url(images/60041259.40ea2ce77aa371604c51e1158b7927cc.20083006.jpg);
   min-height: 100vh;
 }
 
@@ -361,7 +362,7 @@ footer p {
   }
 
   .post-title, .post-cat {
-    margin-top: 80px;
+    margin-left: 80px;
   }
 
   /* 最近の出来事 */
@@ -380,12 +381,7 @@ footer p {
   }
 }
 
-
-
-
-
-
-
+/* 特別設定 ------------------------------------------------------------ */
 .deai a{
   color:white;
 }
@@ -393,15 +389,6 @@ footer p {
 .saikinn a {
   color: black;
 }
-
-
-
-
-
-
-
-
-
 
 .big-box {
   grid-column: 1/3;
