@@ -385,7 +385,7 @@ footer p {
     flex-direction: column;
   }
 
-  .location-info, .location-map .sns-box {
+  .location-info, .location-map, .sns-box {
     width: 10px;
   }
 
